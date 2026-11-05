@@ -1,0 +1,5 @@
+# Effective only when published at https://curtainfit.github.io/robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://curtainfit.github.io/curtainfit/sitemap.xml
